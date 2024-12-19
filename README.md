@@ -1,2 +1,2 @@
-# R-student
+# Junior Data Analyst
 Korean Office Worker
